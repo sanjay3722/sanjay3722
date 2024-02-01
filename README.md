@@ -20,7 +20,7 @@ I'm a passionate Frontend Engineer with expertise in creating dynamic and user-f
  
 ## Get in Touch
 
-Feel free to connect with me! I'm always open to discussions, collaborations, and making new connections. You can reach me via [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/sanjay3722)).
+Feel free to connect with me! I'm always open to discussions, collaborations, and making new connections. You can reach me via [LinkedIn](https://www.linkedin.com/in/sanjay3722).
 
 Looking forward to connecting with like-minded individuals and exploring new opportunities!
 
